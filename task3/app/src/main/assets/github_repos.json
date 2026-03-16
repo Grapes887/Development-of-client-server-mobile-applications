@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "full_name": "JetBrains/kotlin",
+    "description": "The Kotlin Programming Language",
+    "stargazers_count": 48000,
+    "language": "Kotlin"
+  },
+  {
+    "id": 2,
+    "full_name": "square/retrofit",
+    "description": "Type-safe HTTP client",
+    "stargazers_count": 42000,
+    "language": "Kotlin"
+  },
+  {
+    "id": 3,
+    "full_name": "google/gson",
+    "description": "JSON library for Java",
+    "stargazers_count": 23000,
+    "language": "Java"
+  },
+  {
+    "id": 4,
+    "full_name": "coil-kt/coil",
+    "description": "Image loading for Android",
+    "stargazers_count": 12000,
+    "language": "Kotlin"
+  }
+]
